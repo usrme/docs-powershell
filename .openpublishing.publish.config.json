@@ -5,7 +5,7 @@
   "docsets_to_publish": [
     {
       "docset_name": "docs-powershell",
-      "build_source_folder": "docs-powershell",
+      "build_source_folder": ".",
       "build_output_subfolder": "docs-powershell",
       "locale": "en-us",
       "monikers": [],
