@@ -21,7 +21,7 @@ title: PowerShell Documentation
                     <a data-default="true" href="#getstarted">Get Started</a>
                     <ul id="getstarted" class="cardsC">
                         <li>
-                            <a href="https://msdn.microsoft.com/powershell/scripting/getting-started/getting-started-with-windows-powershell">
+                            <a href="https://docs.microsoft.com/powershell/scripting/getting-started/getting-started-with-windows-powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -40,7 +40,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://msdn.microsoft.com/en-us/powershell/scripting/setup/setup-reference">
+                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/setup/setup-reference">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -59,7 +59,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://msdn.microsoft.com/en-us/powershell/scripting/getting-started/basic-cookbooks">
+                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/getting-started/basic-cookbooks">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -121,7 +121,7 @@ title: PowerShell Documentation
                     <a href="#features">Features</a>
                     <ul id="features" class="cardsC">
                         <li>
-                            <a href="https://msdn.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/scripting-with-windows-powershell">
+                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/scripting-with-windows-powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -140,7 +140,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://msdn.microsoft.com/en-us/powershell/dsc/overview">
+                            <a href="https://docs.microsoft.com/en-us/powershell/dsc/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -159,7 +159,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://msdn.microsoft.com/powershell/jea/overview">
+                            <a href="https://docs.microsoft.com/powershell/jea/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -178,7 +178,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://msdn.microsoft.com/powershell/gallery/readme">
+                            <a href="https://docs.microsoft.com/powershell/gallery/readme">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -237,7 +237,7 @@ title: PowerShell Documentation
                     </ul>
                 </li>
                 <li>
-                    <a href="https://msdn.microsoft.com/powershell/reference/readme">Reference</a>
+                    <a href="https://docs.microsoft.com/powershell/reference/readme">Reference</a>
                 </li>
                 <li>
                     <a href="#community">Community</a>
