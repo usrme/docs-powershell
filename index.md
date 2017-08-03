@@ -237,7 +237,7 @@ title: PowerShell Documentation
                     </ul>
                 </li>
                 <li>
-                    <a href="https://docs.microsoft.com/powershell/reference/readme">Reference</a>
+                    <a href="https://docs.microsoft.com/powershell/scripting">Reference</a>
                 </li>
                 <li>
                     <a href="#community">Community</a>
