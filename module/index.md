@@ -17,6 +17,7 @@ layout: ContentPage
 
 List of PowerShell modules on docs.microsoft.com:
 
+* [PowerShell] (/powershell/scripting)
 * [Azure PowerShell](/powershell/azure/overview)
 * [Azure Active Directory PowerShell](/powershell/azure/active-directory/overview)
 * [Azure Information Protection PowerShell](/powershell/azure/aip/overview)
