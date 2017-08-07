@@ -10,9 +10,8 @@
     ],
     "globalMetadata": {
       "showPowerShellPicker": "true",
-      "brand": "azure",
       "searchScope": [
-        "Azure"
+        "PowerShell"
       ],
       "breadcrumb_path": "/powershell/bread/toc.json",
       "ms.devlang": "powershell"
