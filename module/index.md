@@ -1,6 +1,6 @@
 ---
 title: PowerShell Module Browser
-description: List of all Microsoft PowerShell modules 
+description: Search all PowerShell modules and cmdlets from Microsoft
 author: sdwheeler
 ms.author: sewhee
 manager: carmonm
@@ -9,7 +9,9 @@ ms.service: azure-powershell
 ms.devlang: powershell
 ms.topic: conceptual
 ms.manager: carmonm
-ms.date: 03/30/2017
+ms.date: 08/07/2017
 layout: ApiBrowserPage
 apiPlatform: powershell
 ---
+
+Search all PowerShell modules and cmdlets from Microsoft – just start typing in the box below.
