@@ -1,5 +1,5 @@
 ---
-title: PowerShell API Browser
+title: PowerShell Module Browser
 description: List of all Microsoft PowerShell modules 
 author: sdwheeler
 ms.author: sewhee
@@ -13,4 +13,5 @@ ms.date: 03/30/2017
 layout: ApiBrowserPage
 hide_bc: true
 apiPlatform: powershell
+brand: PowerShell
 ---
