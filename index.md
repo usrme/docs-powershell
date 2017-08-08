@@ -4,9 +4,8 @@ hide_bc: true
 brand: powershell
 searchScope:
     - PowerShell
-author: mattlusherro
 ms.author: apexprodleads
-ms.date: 03-24-2017
+ms.date: 08-08-2017
 ms.topic: hub-page
 title: PowerShell Documentation
 ---
@@ -109,6 +108,25 @@ title: PowerShell Documentation
                                         <div class="cardText">
                                             <h3>Download WMF</h3>
                                             <p>Windows Management Framework contains the latest versions of PowerShell, DSC, WMI, and WinRM for older versions of Windows.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/powershell/module/">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage bgdAccent1">
+                                                <img src="/media/hubs/common/placeholder.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>PowerShell Module Browser</h3>
+                                            <p>Search for PowerShell modules and cmdlets.</p>
                                         </div>
                                     </div>
                                 </div>
