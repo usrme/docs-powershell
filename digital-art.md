@@ -22,10 +22,10 @@ To share a link to the comic, you can also use <http://aka.ms/powershellcomic>, 
 
 - [PowerShell Hero Poster](http://aka.ms/powershellheroposter)
 
-PowerShell Hero
+## PowerShell Hero
 - [PowerShell Hero Image](http://aka.ms/powershellhero) 
 
-## Microsoft PowerShell Logo and Digital Art Guidelines
+### Microsoft PowerShell Logo and Digital Art Guidelines
 
 As a general rule, third parties may not use Microsoft logos and artwork without permission.
 The following are the limited circumstances under which third parties may use the Microsoft PowerShell logo and artwork.
