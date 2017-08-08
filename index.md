@@ -4,9 +4,8 @@ hide_bc: true
 brand: powershell
 searchScope:
     - PowerShell
-author: mattlusherro
 ms.author: apexprodleads
-ms.date: 03-24-2017
+ms.date: 08-08-2017
 ms.topic: hub-page
 title: PowerShell Documentation
 ---
