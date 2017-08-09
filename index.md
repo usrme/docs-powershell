@@ -121,7 +121,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/common/placeholder.svg" alt="" />
+                                                <img src="/media/hubs/powershell/powershell-get-started-module-browser.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
