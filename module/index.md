@@ -14,4 +14,6 @@ layout: ApiBrowserPage
 apiPlatform: powershell
 ---
 
+# PowerShell Module Browser
+
 Search all PowerShell modules and cmdlets from Microsoft – just start typing in the box below.
