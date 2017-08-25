@@ -10,9 +10,8 @@
     ],
     "globalMetadata": {
       "showPowerShellPicker": "true",
-      "searchScope": [
-        "PowerShell"
-      ],
+      "searchScope": ["PowerShell"],
+      "uhfHeaderId": "MSDocsHeader-Powershell"
       "breadcrumb_path": "/powershell/bread/toc.json",
       "ms.devlang": "powershell"
     },
