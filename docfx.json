@@ -4,7 +4,8 @@
       {
         "files": [
           "index.md",
-          "module/index.md"
+          "module/index.md",
+          "**/*.md"
         ]
       }
     ],
