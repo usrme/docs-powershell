@@ -316,20 +316,153 @@ title: PowerShell Documentation
                                 </div>
                             </div>
                             </a>
-                        </li>
+                        </li>                        
                         <li>
-                            <a href="https://windowsserver.uservoice.com/forums/295047-general-feedback">
+                            <a href="https://aka.ms/psusergroup">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/common/i_feedback.svg" alt="" />
+                                                <img src="/media/hubs/powershell/i_group.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>Windows Server UserVoice</h3>
-                                            <p>Tell us about your experience, give us your suggestions. We want to know what you think!</p>
+                                            <h3>PowerShell User Groups</h3>
+                                            <p>Find other PowerShell users in your area.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://social.technet.microsoft.com/forums/en-us/home?forum=winserverpowershell">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="/media/hubs/powershell/i_blog.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>TechNet Forums</h3>
+                                            <p>Discuss PowerShell usage on the official Microsoft forums</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://powershell.org/">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="/media/hubs/powershell/i_group-feedback.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>PowerShell.org</h3>
+                                            <p>A community-owned and operated site dedicated to education, assistance, and development.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="http://stackoverflow.com/questions/tagged/powershell">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="/media/hubs/powershell/logo_stackoverflow.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>StackOverFlow</h3>
+                                            <p>Questions tagged “PowerShell” on StackOverflow</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/PowerShell_Team">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="/media/hubs/powershell/logo_twitter.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>PowerShell Team on Twitter</h3>
+                                            <p>Join in on the discussion and engage with the PowerShell community on Twitter</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://www.reddit.com/r/PowerShell/">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="/media/hubs/powershell/logo_reddit.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>r/PowerShell</h3>
+                                            <p>Upvote, comment, and submit posts on the PowerShell subreddit</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://docs.microsoft.com/powershell/digital-art">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="/media/hubs/powershell/i_digital-art.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Digital Art</h3>
+                                            <p>Logos, comics, and wallpapers</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/powershell/powershell/issues">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="/media/hubs/powershell/i_bug.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>GitHub Issues</h3>
+                                            <p>File issues on GitHub for the PowerShell project</p>
                                         </div>
                                     </div>
                                 </div>
