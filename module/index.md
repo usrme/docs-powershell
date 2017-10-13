@@ -14,7 +14,7 @@ layout: ApiBrowserPage
 apiPlatform: powershell
 quickFilterColumn1: powershell-5.1,win10-ps
 quickFilterColumn2: azurermps-4.4.0,win-mdop2-ps
-quickFilterColumn3: sqlserver-ps
+quickFilterColumn3: sqlserver-ps,systemcenter-ps-2016
 ---
 
 # PowerShell Module Browser
