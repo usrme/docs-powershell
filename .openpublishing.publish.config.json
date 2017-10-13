@@ -1,7 +1,5 @@
 {
   "build_entry_point": "docs",
-  "need_generate_pdf": false,
-  "need_generate_intellisense": false,
   "docsets_to_publish": [
     {
       "docset_name": "docs-powershell",
@@ -9,7 +7,8 @@
       "build_output_subfolder": "docs-powershell",
       "locale": "en-us",
       "monikers": [],
-      "open_to_public_contributors": true,
+      "moniker_ranges": [],
+      "open_to_public_contributors": false,
       "type_mapping": {
         "Conceptual": "Content",
         "ManagedReference": "Content",
@@ -21,8 +20,8 @@
   ],
   "notification_subscribers": [],
   "branches_to_filter": [],
-  "skip_source_output_uploading": false,
   "git_repository_branch_open_to_public_contributors": "master",
+  "skip_source_output_uploading": false,
   "dependent_repositories": [
     {
       "path_to_root": "_themes",
@@ -31,5 +30,7 @@
       "branch_mapping": {}
     }
   ],
-  "need_generate_pdf_url_template": false
+  "need_generate_pdf_url_template": false,
+  "need_generate_pdf": false,
+  "need_generate_intellisense": false
 }
