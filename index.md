@@ -115,18 +115,18 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="/powershell/module/">
+                            <a href="https://aka.ms/cloudshell/powershell-docs">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-module-browser.svg" alt="" />
+                                                <img src="/media/landing/powershell/powershell-get-started-azure-cloud-shell.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>PowerShell Module Browser</h3>
-                                            <p>Search for PowerShell modules and cmdlets.</p>
+                                            <h3>PowerShell in Azure Cloud Shell</h3>
+                                            <p>PowerShell in Azure Cloud Shell is now availlable in public preview. Learn more!</p>
                                         </div>
                                     </div>
                                 </div>
