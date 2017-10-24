@@ -115,6 +115,25 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
+                            <a href="/powershell/module/">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage bgdAccent1">
+                                                <img src="/media/hubs/powershell/powershell-get-started-module-browser.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>PowerShell Module Browser</h3>
+                                            <p>Search for PowerShell modules and cmdlets.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
                             <a href="https://aka.ms/cloudshell/powershell-docs">
                             <div class="cardSize">
                                 <div class="cardPadding">
