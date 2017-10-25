@@ -7,7 +7,7 @@ manager: carmonm
 ms.product: azure
 ms.service: azure-powershell
 ms.devlang: powershell
-ms.topic: conceptual
+ms.topic: landing-page
 ms.manager: carmonm
 ms.date: 08/07/2017
 layout: ApiBrowserPage
