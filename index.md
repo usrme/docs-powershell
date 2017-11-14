@@ -133,6 +133,25 @@ title: PowerShell Documentation
                             </div>
                             </a>
                         </li>
+                        <li>
+                            <a href="https://aka.ms/cloudshell/powershell-docs">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage bgdAccent1">
+                                                <img src="/media/landing/powershell/powershell-get-started-azure-cloud-shell.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>PowerShell in Azure Cloud Shell</h3>
+                                            <p>PowerShell in Azure Cloud Shell is now availlable in public preview. Learn more!</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
                     </ul>
                 </li>
                 <li>
