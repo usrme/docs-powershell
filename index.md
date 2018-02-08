@@ -96,7 +96,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://www.microsoft.com/download/details.aspx?id=54616">
+                            <a href="/powershell/wmf/">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
@@ -106,7 +106,7 @@ title: PowerShell Documentation
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>Download WMF</h3>
+                                            <h3>Windows Management Framework (WMF)</h3>
                                             <p>Windows Management Framework contains the latest versions of PowerShell, DSC, WMI, and WinRM for older versions of Windows.</p>
                                         </div>
                                     </div>
