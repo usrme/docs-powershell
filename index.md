@@ -26,7 +26,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-windows.svg" alt="Get started" />
+                                                <img src="/media/hubs/powershell/powershell-get-started-windows.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
