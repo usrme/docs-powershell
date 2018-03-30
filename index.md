@@ -2,8 +2,6 @@
 layout: HubPage
 hide_bc: true
 brand: powershell
-searchScope:
-    - PowerShell
 ms.author: apexprodleads
 ms.date: 08-08-2017
 ms.topic: hub-page
