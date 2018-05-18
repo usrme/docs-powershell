@@ -12,7 +12,6 @@
     "globalMetadata": {
       "showPowerShellPicker": "true",
       "uhfHeaderId": "MSDocsHeader-Powershell",
-      "breadcrumb_path": "/powershell/bread/toc.json",
       "ms.devlang": "powershell"
     },
     "dest": "docs-powershell"
