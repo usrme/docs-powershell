@@ -12,8 +12,8 @@ ms.manager: carmonm
 ms.date: 08/07/2017
 layout: ApiBrowserPage
 apiPlatform: powershell
-quickFilterColumn1: powershell-5.1,win10-ps
-quickFilterColumn2: azurermps-4.4.0,win-mdop2-ps
+quickFilterColumn1: powershell-6.0,win10-ps
+quickFilterColumn2: azurermps-6.2.0,win-mdop2-ps
 quickFilterColumn3: sqlserver-ps,systemcenter-ps-2016
 ---
 
