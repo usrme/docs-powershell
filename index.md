@@ -18,13 +18,13 @@ title: PowerShell Documentation
                     <a data-default="true" href="#getstarted">Get Started</a>
                     <ul id="getstarted" class="cardsC">
                         <li>
-                            <a href="https://docs.microsoft.com/powershell/scripting/getting-started/getting-started-with-windows-powershell">
+                            <a href="/powershell/scripting/powershell-scripting">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-windows.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-windows.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -37,13 +37,13 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/setup/setup-reference">
+                            <a href="/powershell/scripting/setup/installing-windows-powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-setup.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-setup.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -56,13 +56,13 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/getting-started/basic-cookbooks">
+                            <a href="/powershell/scripting/getting-started/fundamental/using-windows-powershell-for-administration">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-tutorials.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-tutorials.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -81,31 +81,12 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-github.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-github.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell on GitHub</h3>
                                             <p>PowerShell is an open-source project and available for Windows, Linux and macOS.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/powershell/wmf/">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-wmf.svg" alt="" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Windows Management Framework (WMF)</h3>
-                                            <p>Windows Management Framework contains the latest versions of PowerShell, DSC, WMI, and WinRM for older versions of Windows.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -119,7 +100,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-get-started-module-browser.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-module-browser.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -138,7 +119,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/landing/powershell/powershell-get-started-azure-cloud-shell.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/landing/powershell/powershell-get-started-azure-cloud-shell.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -156,17 +137,17 @@ title: PowerShell Documentation
                     <a href="#features">Features</a>
                     <ul id="features" class="cardsC">
                         <li>
-                            <a href="https://docs.microsoft.com/en-us/powershell/scripting/getting-started/fundamental/scripting-with-windows-powershell">
+                            <a href="/en-us/powershell/scripting/getting-started/fundamental/understanding-important-windows-powershell-concepts">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-features-windows.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-features-windows.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
-                                            <h3>Windows PowerShell</h3>
+                                            <h3>Learn PowerShell</h3>
                                             <p>Learn about the PowerShell scripting language.</p>
                                         </div>
                                     </div>
@@ -175,13 +156,13 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://docs.microsoft.com/en-us/powershell/dsc/overview">
+                            <a href="/powershell/dsc/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-features-configuration.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-features-configuration.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -194,13 +175,13 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://docs.microsoft.com/powershell/jea/overview">
+                            <a href="/powershell/jea/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-features-administration.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-features-administration.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -213,18 +194,56 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://docs.microsoft.com/powershell/gallery/readme">
+                            <a href="/powershell/gallery/overview">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-features-gallery.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-features-gallery.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
                                             <h3>PowerShell Gallery</h3>
                                             <p>The central repository for PowerShell scripts and modules.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/powershell/wmf/">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage bgdAccent1">
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-get-started-wmf.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Windows Management Framework (WMF)</h3>
+                                            <p>WMF contains PowerShell, DSC, WMI, and WinRM for older versions of Windows.</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/powershell/developer">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage bgdAccent1">
+                                                <img src="https://docs.microsoft.com/media/hubs/visualstudio/toolsets-net-cross-platform.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>PowerShell SDK</h3>
+                                            <p>See the reference documentation for the PowerShell SDK.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -238,7 +257,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-features-azure.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/powershell-features-azure.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -250,29 +269,10 @@ title: PowerShell Documentation
                             </div>
                             </a>
                         </li>
-                        <li>
-                            <a href="/powershell/module">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage bgdAccent1">
-                                                <img src="/media/hubs/powershell/powershell-features-modules.svg" alt="" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Modules</h3>
-                                            <p>See the reference documentation for numerous PowerShell modules.</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            </a>
-                        </li>
                     </ul>
                 </li>
                 <li>
-                    <a href="https://docs.microsoft.com/powershell/scripting">Reference</a>
+                    <a href="/powershell/scripting">Reference</a>
                 </li>
                 <li>
                     <a href="#community">Community</a>
@@ -284,7 +284,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/common/i_blog.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/common/i_blog.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -303,7 +303,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/common/i_blog.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/common/i_blog.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -322,7 +322,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/common/i_feedback.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/common/i_feedback.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -333,7 +333,7 @@ title: PowerShell Documentation
                                 </div>
                             </div>
                             </a>
-                        </li>                        
+                        </li>
                         <li>
                             <a href="https://aka.ms/psusergroup">
                             <div class="cardSize">
@@ -341,7 +341,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/i_group.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_group.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -354,13 +354,13 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://social.technet.microsoft.com/forums/en-us/home?forum=winserverpowershell">
+                            <a href="https://social.technet.microsoft.com/forums/home?forum=winserverpowershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/i_blog.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_blog.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -379,7 +379,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/i_group-feedback.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_group-feedback.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -398,7 +398,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/logo_stackoverflow.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/logo_stackoverflow.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -417,7 +417,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/logo_twitter.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/logo_twitter.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -436,7 +436,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/logo_reddit.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/logo_reddit.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -449,13 +449,13 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://docs.microsoft.com/powershell/digital-art">
+                            <a href="/powershell/digital-art">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/i_digital-art.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_digital-art.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
@@ -474,7 +474,7 @@ title: PowerShell Documentation
                                     <div class="card">
                                         <div class="cardImageOuter">
                                             <div class="cardImage">
-                                                <img src="/media/hubs/powershell/i_bug.svg" alt="" />
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_bug.svg" alt="" />
                                             </div>
                                         </div>
                                         <div class="cardText">
