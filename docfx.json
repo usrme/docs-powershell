@@ -1,19 +1,18 @@
 {
-  "build": {
-    "content": [
-      {
-        "files": [
-          "index.md",
-          "module/index.md",
-          "**/*.md"
-        ]
-      }
-    ],
-    "globalMetadata": {
-      "showPowerShellPicker": "true",
-      "uhfHeaderId": "MSDocsHeader-Powershell",
-      "ms.devlang": "powershell"
-    },
-    "dest": "docs-powershell"
-  }
+    "build": {
+        "content": [{
+            "files": [
+                "index.md",
+                "module/index.md",
+                "**/*.md"
+            ]
+        }],
+        "globalMetadata": {
+            "showPowerShellPicker": "true",
+            "uhfHeaderId": "MSDocsHeader-Powershell",
+            "ms.devlang": "powershell"
+        },
+        "dest": "docs-powershell",
+        "markdownEngineName": "markdig"
+    }
 }
