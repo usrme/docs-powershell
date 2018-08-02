@@ -316,6 +316,25 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
+                            <a href="https://twitter.com/PowerShell_Team">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/logo_twitter.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>PowerShell Team on Twitter</h3>
+                                            <p>Join in on the discussion and engage with the PowerShell community on Twitter</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
                             <a href="https://windowsserver.uservoice.com/forums/301869-powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
@@ -328,6 +347,44 @@ title: PowerShell Documentation
                                         <div class="cardText">
                                             <h3>PowerShell UserVoice</h3>
                                             <p>Tell us about your PowerShell experience, give us your suggestions. We would love to hear it!</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="https://github.com/powershell/powershell/issues">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_bug.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>GitHub Issues</h3>
+                                            <p>File issues on GitHub for the PowerShell project</p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                            </a>
+                        </li>
+                        <li>
+                            <a href="/powershell/digital-art">
+                            <div class="cardSize">
+                                <div class="cardPadding">
+                                    <div class="card">
+                                        <div class="cardImageOuter">
+                                            <div class="cardImage">
+                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_digital-art.svg" alt="" />
+                                            </div>
+                                        </div>
+                                        <div class="cardText">
+                                            <h3>Digital Art</h3>
+                                            <p>Logos, comics, and wallpapers</p>
                                         </div>
                                     </div>
                                 </div>
@@ -411,25 +468,6 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="https://twitter.com/PowerShell_Team">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="https://docs.microsoft.com/media/hubs/powershell/logo_twitter.svg" alt="" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>PowerShell Team on Twitter</h3>
-                                            <p>Join in on the discussion and engage with the PowerShell community on Twitter</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            </a>
-                        </li>
-                        <li>
                             <a href="https://www.reddit.com/r/PowerShell/">
                             <div class="cardSize">
                                 <div class="cardPadding">
@@ -442,44 +480,6 @@ title: PowerShell Documentation
                                         <div class="cardText">
                                             <h3>r/PowerShell</h3>
                                             <p>Upvote, comment, and submit posts on the PowerShell subreddit</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="/powershell/digital-art">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_digital-art.svg" alt="" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>Digital Art</h3>
-                                            <p>Logos, comics, and wallpapers</p>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            </a>
-                        </li>
-                        <li>
-                            <a href="https://github.com/powershell/powershell/issues">
-                            <div class="cardSize">
-                                <div class="cardPadding">
-                                    <div class="card">
-                                        <div class="cardImageOuter">
-                                            <div class="cardImage">
-                                                <img src="https://docs.microsoft.com/media/hubs/powershell/i_bug.svg" alt="" />
-                                            </div>
-                                        </div>
-                                        <div class="cardText">
-                                            <h3>GitHub Issues</h3>
-                                            <p>File issues on GitHub for the PowerShell project</p>
                                         </div>
                                     </div>
                                 </div>
