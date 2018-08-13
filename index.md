@@ -37,7 +37,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="/powershell/scripting/setup/installing-windows-powershell">
+                            <a href="/powershell/scripting/setup/installing-powershell">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
