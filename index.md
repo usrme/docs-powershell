@@ -56,7 +56,7 @@ title: PowerShell Documentation
                             </a>
                         </li>
                         <li>
-                            <a href="/powershell/scripting/getting-started/fundamental/using-windows-powershell-for-administration">
+                            <a href="/powershell/scripting/getting-started/fundamental/sample-scripts-for-administration">
                             <div class="cardSize">
                                 <div class="cardPadding">
                                     <div class="card">
