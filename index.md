@@ -308,7 +308,7 @@ title: PowerShell Documentation
                                         </div>
                                         <div class="cardText">
                                             <h3>Hey, Scripting Guy!</h3>
-                                            <p>Learn the latest PowerShell tips and tricks from The Scripting Guy, Ed Wilson.</p>
+                                            <p>Learn the latest PowerShell tips and tricks from the community and Dr. Scripto.</p>
                                         </div>
                                     </div>
                                 </div>
