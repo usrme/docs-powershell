@@ -1,3 +1,3 @@
 # docs-powershell
 
-Repository for powershell hub and powershell module browser for docs.microsoft.com
+Repository for the [PowerShell documentation hub](https://docs.microsoft.com/en-us/powershell/)
